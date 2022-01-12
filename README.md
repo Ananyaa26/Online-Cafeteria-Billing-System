@@ -27,19 +27,20 @@ and how to co-ordinate with databases to produce more commercial web application
 
    ### Menu: 
 
-       -The name insists, it contains the information of all menus and its related matter, it has item name, price and rating 
+       -The name insists, it contains the information of all menus and its related matter, 
+        it has item name, price and rating 
 
    ### Ordered Item: 
 
         -This table provides information to the management staff regarding the uniquely generated orderID, 
-          which may contain one or more menu item uniquely identified by ItemID. 
+         which may contain one or more menu item uniquely identified by ItemID. 
         -From customer’s perspective, customer can check the  the quantity he ordered, 
-        the later can also be helpful at the management side. 
+         the later can also be helpful at the management side. 
 
    ### Bill: 
 
         -The bill asks the customer of his/her name,the date of the day and display the bill mentioning 
-        the name of the meal,it's quantity, price and total price. 
+         the name of the meal,it's quantity, price and total price. 
         
    ## OUTPUT SCREENSHOTS
    
